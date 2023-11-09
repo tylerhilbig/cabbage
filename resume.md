@@ -2,8 +2,11 @@
 *Computer Science Student*
 
 city, state  
+
 (098) 765-4321 
+
 email@gmail.com
+
 [linkedin.com/in/username](https://www.linkedin.com/in/username)
 
 ## Summary
